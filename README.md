@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diki Hamdani
+👋 Hi, I’m Diki Hamdani
 
 <!---
 Dikihmd01/Dikihmd01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
