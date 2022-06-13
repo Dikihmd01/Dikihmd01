@@ -1,6 +1,6 @@
 👋 Hi, I’m Diki Hamdani. I am currently learning Machine Learning and Data Science.
 
-# Statistik Github
+# Github Statistics
 <p align="left">
 <a href="https://github.com/Dikihmd01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dikihmd01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
