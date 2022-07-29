@@ -1,6 +1,7 @@
-👋 Hi, I’m Diki Hamdani. I am currently learning Machine Learning, Data, and Backend Development.
+# Introduction
+Hi, I am Diki Hamdani. An Informatics Engineering Student at STMIK Tasikmalaya. Familiar with programming such as Python, PHP, MySQL, and TensorFlow proven by [Google Certified TensorFlow Developer](https://www.credential.net/14850bd0-8dec-4703-a98f-8ef5d65b737b#gs.7qax6y). Interested in back-end development, data, and machine learning. Accompanied by teamwork skills, leadership skills, and public speaking skills obtained from educational organizations
 
-Familiar with:
+# Tools
 - HTML, CSS, Bootstrap, TailwindCSS
 - PHP, CodeIgniter, Laravel, Yii
 - Python, Django, Django REST Framework, Flask
@@ -15,12 +16,12 @@ Familiar with:
 </p>
 
 # Portofolio
-- Analyzing TV Data | [Notebook](https://app.datacamp.com/workspace/w/37579834-5cc6-4cac-8827-8e371dcc75c8)
-- Dr. Semmelweis and the Discovery of Handwashing | [Notebook](https://app.datacamp.com/workspace/w/0b317039-3f77-4519-a2d2-2c154c355732)
-- Rock, Paper, Scissor Classifier | [Notebook](https://github.com/Dikihmd01/Specialization-3/blob/main/CNN/Week4/graded/RPS-Classifier.ipynb)
-- Horse vs Dog Classifier | [Notebook](https://github.com/Dikihmd01/Specialization-3/blob/main/CNN/Week3/graded/Horse-Vs-Human-Classifer.ipynb)
-- Predicting the Next Word | [Notebook](https://github.com/Dikihmd01/Specialization-3/blob/main/NLP/Week4/graded/Predicting-the-Next-Word.ipynb)
-- Diabetes Classification | [Report](https://github.com/Dikihmd01/Applied-ML/blob/main/Predictive-Analytics/Laporan.md) | [Notebook](https://github.com/Dikihmd01/Applied-ML/blob/main/Predictive-Analytics/Proyek_Pertama_Predictive_Analytics_Klasifikasi_Diabetes_Diki_Hamdani.ipynb)
+- Analyzing TV Data | [Preview project](https://app.datacamp.com/workspace/w/37579834-5cc6-4cac-8827-8e371dcc75c8)
+- Dr. Semmelweis and the Discovery of Handwashing | [Preview project](https://app.datacamp.com/workspace/w/0b317039-3f77-4519-a2d2-2c154c355732)
+- Rock, Paper, Scissor Classifier | [Preview project](https://github.com/Dikihmd01/Specialization-3/blob/main/CNN/Week4/graded/RPS-Classifier.ipynb)
+- Horse vs Dog Classifier | [Preview project](https://github.com/Dikihmd01/Specialization-3/blob/main/CNN/Week3/graded/Horse-Vs-Human-Classifer.ipynb)
+- Predicting the Next Word | [Preview project](https://github.com/Dikihmd01/Specialization-3/blob/main/NLP/Week4/graded/Predicting-the-Next-Word.ipynb)
+- Diabetes Classification | [Preview report](https://github.com/Dikihmd01/Applied-ML/blob/main/Predictive-Analytics/Laporan.md) | [Preview project](https://github.com/Dikihmd01/Applied-ML/blob/main/Predictive-Analytics/Proyek_Pertama_Predictive_Analytics_Klasifikasi_Diabetes_Diki_Hamdani.ipynb)
 
 <!---
 Dikihmd01/Dikihmd01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
