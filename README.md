@@ -6,6 +6,7 @@ Hi, I am Diki Hamdani. An Informatics Engineering Student at STMIK Tasikmalaya. 
 - PHP, CodeIgniter, Laravel, Yii
 - Python, Django, Django REST Framework, Flask
 - MySQL, PostgreSQL
+- TensorFlow & Keras
 
 # Github Statistics
 <p align="left">
