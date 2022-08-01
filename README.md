@@ -23,7 +23,7 @@ Hi, I am Diki Hamdani. An Informatics Engineering Student at STMIK Tasikmalaya. 
 - Horse vs Dog Classifier | [Preview project](https://github.com/Dikihmd01/Specialization-3/blob/main/CNN/Week3/graded/Horse-Vs-Human-Classifer.ipynb)
 - Predicting the Next Word | [Preview project](https://github.com/Dikihmd01/Specialization-3/blob/main/NLP/Week4/graded/Predicting-the-Next-Word.ipynb)
 - Diabetes Classification | [Preview report](https://github.com/Dikihmd01/Applied-ML/blob/main/Predictive-Analytics/Laporan.md) | [Preview project](https://github.com/Dikihmd01/Applied-ML/blob/main/Predictive-Analytics/Proyek_Pertama_Predictive_Analytics_Klasifikasi_Diabetes_Diki_Hamdani.ipynb)
-- Batik Classifier | [Review](https://pcd-klasifikasi-batik.herokuapp.com/) | [Repo](https://github.com/Dikihmd01/batik-classifier)
+- Batik Classifier | [Preview](https://pcd-klasifikasi-batik.herokuapp.com/) | [Repo](https://github.com/Dikihmd01/batik-classifier)
 
 <!---
 Dikihmd01/Dikihmd01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
